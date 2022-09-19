@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify3a81384e381c4-staging-155251-authRole",
+      "UnauthRoleArn": "arn:aws:iam::617843952846:role/amplify-amplify3a81384e381c4-staging-155251-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::617843952846:role/amplify-amplify3a81384e381c4-staging-155251-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-amplify3a81384e381c4-staging-155251-deployment",
+      "UnauthRoleName": "amplify-amplify3a81384e381c4-staging-155251-unauthRole",
+      "StackName": "amplify-amplify3a81384e381c4-staging-155251",
+      "StackId": "arn:aws:cloudformation:us-east-2:617843952846:stack/amplify-amplify3a81384e381c4-staging-155251/1e7fe860-3833-11ed-a1e0-064e69980c36",
+      "AmplifyAppId": "d259zdttfev26d"
+    },
+    "categories": {
+      "auth": {
+        "healthforumec12af95": {}
+      }
+    }
+  }
+}
